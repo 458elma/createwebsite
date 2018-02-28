@@ -3,9 +3,4 @@ body {
   font-family: "Comic Sans MS";
   background-color: teal; 
   color: red;
-  #saveForm {
-    position: relative;
-    top: -43px;
-    left: 410px;
-  }
 }
